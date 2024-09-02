@@ -1,4 +1,4 @@
-Primordial-Table
+# Primordial-Table
 
 This project is for the implementation of an interactive rune.
 

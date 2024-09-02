@@ -1,0 +1,167 @@
+<svg name="primary-table" width="400" height="800" viewbox="0 0 400 800" id="primary-table">
+    <g id="major-primary-runes">
+  <!-- Major primary runes -->
+
+  <!-- Column -->
+    <circle cx="200" cy="283.5" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
+    <circle cx="200" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
+    <circle cx="200" cy="516.5" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
+
+  <!-- Directions -->
+    <circle cx="200" cy="50" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
+    <circle cx="375" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
+    <circle cx="200" cy="750" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
+    <circle cx="25" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
+
+  <!-- Quarter -->
+    <circle cx="287.5" cy="225" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
+    <circle cx="287.5" cy="575" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
+    <circle cx="112.5" cy="575" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
+    <circle cx="112.5" cy="225" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
+
+  <!-- Moons -->
+    <circle cx="141.5" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="spiritual-moons moons major-primary-runes runes"/>
+    <circle cx="258.5" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="spiritual-moons moons major-primary-runes runes"/>
+
+    <circle cx="243.5" cy="312.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
+    <circle cx="243.5" cy="487.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
+    <circle cx="156.5" cy="487.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
+    <circle cx="156.5" cy="312.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
+
+  <!-- Domains -->
+    <circle cx="235" cy="260" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
+    <circle cx="235" cy="540" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
+    <circle cx="165" cy="540" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
+    <circle cx="165" cy="260" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
+
+    <circle cx="270" cy="330" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
+    <circle cx="270" cy="470" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
+    <circle cx="130" cy="470" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
+    <circle cx="130" cy="330" r="8" stroke="black" stroke-width="3" 
+          fill="white" class="intermediate-domains domains major-primary-runes runes"/>
+
+    <circle cx="229" cy="341.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
+    <circle cx="229" cy="458.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
+    <circle cx="171" cy="458.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
+    <circle cx="171" cy="341.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
+  </g>
+  <g id="minor-primary-runes">
+  <!-- Minor primary runes. -->
+
+  <!-- Towers -->
+    <line x1="200" y1="50" x2="287.5" y2="225" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+    <line x1="287.5" y1="225" x2="375" y2="400" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+
+    <line x1="375" y1="400" x2="287.5" y2="575" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+    <line x1="287.5" y1="575" x2="200" y2="750" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+
+    <line x1="200" y1="750" x2="112.5" y2="575" stroke-width="4" stroke="blue" class="minor-primary-runes runes"/>
+    <line x1="112.5" y1="575" x2="25" y2="400" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+
+    <line x1="25" y1="400" x2="112.5" y2="225" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+    <line x1="112.5" y1="225" x2="200" y2="50" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="283.5" x2="229" y2="341.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+    <line x1="229" y1="341.5" x2="258.5" y2="400" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+
+    <line x1="258.5" y1="400" x2="229" y2="458.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+    <line x1="229" y1="458.5" x2="200" y2="516.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+
+    <line x1="200" y1="516.5" x2="171" y2="458.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+    <line x1="171" y1="458.5" x2="141.5" y2="400" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+
+    <line x1="141.5" y1="400" x2="171" y2="341.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+    <line x1="171" y1="341.5" x2="200" y2="283.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
+
+  <!-- Cardinals -->
+    <line x1="200" y1="400" x2="200" y2="283.5" stroke-width="4"           stroke="green" class="cardinals minor-primary-runes runes"/>
+    <line x1="200" y1="283.5" x2="200" y2="50" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="258.5" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+    <line x1="258.5" y1="400" x2="375" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="200" y2="516.5" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+    <line x1="200" y1="516.5" x2="200" y2="750" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="141.5" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+    <line x1="141.5" y1="400" x2="25" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
+
+
+  <!-- Ways -->
+    <line x1="200" y1="400" x2="229" y2="341.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="229" y1="341.5" x2="243.5" y2="312.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="243.5" y1="312.5" x2="287.5" y2="225" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="229" y2="458.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="229" y1="458.5" x2="243.5" y2="487.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="243.5" y1="487.5" x2="287.5" y2="575" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="171" y2="458.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="171" y1="458.5" x2="156.5" y2="487.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="156.5" y1="487.5" x2="112.5" y2="575" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="400" x2="171" y2="341.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="171" y1="341.5" x2="156.5" y2="312.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+    <line x1="156.5" y1="312.5" x2="112.5" y2="225" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
+
+
+  <!-- Roads -->
+    <line x1="200" y1="50" x2="235" y2="260" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="235" y1="260" x2="243.5" y2="312.5" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="243.5" y1="312.5" x2="258.5" y2="400" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="258.5" y1="400" x2="270" y2="470" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="270" y1="470" x2="287.5" y2="575" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+
+    <line x1="200" y1="50" x2="165" y2="260" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="165" y1="260" x2="156.5" y2="312.5" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="156.5" y1="312.5" x2="141.5" y2="400" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="141.5" y1="400" x2="130" y2="470" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+    <line x1="130" y1="470" x2="112.5" y2="575" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
+
+
+    <line x1="375" y1="400" x2="270" y2="330" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="270" y1="330" x2="243.5" y2="312.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="243.5" y1="312.5" x2="200" y2="283.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="200" y1="283.5" x2="165" y2="260" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="165" y1="260" x2="112.5" y2="225" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+
+    <line x1="375" y1="400" x2="270" y2="470" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="270" y1="470" x2="243.5" y2="487.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="243.5" y1="487.5" x2="200" y2="516.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="200" y1="516.5" x2="165" y2="540" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+    <line x1="165" y1="540" x2="112.5" y2="575" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
+
+
+    <line x1="200" y1="750" x2="235" y2="540" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="235" y1="540" x2="243.5" y2="487.5" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="243.5" y1="487.5" x2="258.5" y2="400" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="258.5" y1="400" x2="270" y2="330" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="270" y1="330" x2="287.5" y2="225" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+
+    <line x1="200" y1="750" x2="165" y2="540" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="165" y1="540" x2="156.5" y2="487.5" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="156.5" y1="487.5" x2="141.5" y2="400" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="141.5" y1="400" x2="130" y2="330" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+    <line x1="130" y1="330" x2="112.5" y2="225" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
+
+
+    <line x1="25" y1="400" x2="130" y2="470" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="130" y1="470" x2="156.5" y2="487.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="156.5" y1="487.5" x2="200" y2="516.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="200" y1="516.5" x2="235" y2="540" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="235" y1="540" x2="287.5" y2="575" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+
+    <line x1="25" y1="400" x2="130" y2="330" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="130" y1="330" x2="156.5" y2="312.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="156.5" y1="312.5" x2="200" y2="283.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="200" y1="283.5" x2="235" y2="260" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+    <line x1="235" y1="260" x2="287.5" y2="225" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
+  </g>
+</svg>
