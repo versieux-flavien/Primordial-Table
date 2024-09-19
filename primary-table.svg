@@ -1,167 +1,629 @@
-<svg name="primary-table" width="400" height="800" viewbox="0 0 400 800" id="primary-table">
-    <g id="major-primary-runes">
-  <!-- Major primary runes -->
-
-  <!-- Column -->
-    <circle cx="200" cy="283.5" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
-    <circle cx="200" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
-    <circle cx="200" cy="516.5" r="8" stroke="black" stroke-width="3" fill="white" class="column major-primary-runes runes"/>
-
-  <!-- Directions -->
-    <circle cx="200" cy="50" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
-    <circle cx="375" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
-    <circle cx="200" cy="750" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
-    <circle cx="25" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="directions major-primary-runes runes"/>
-
-  <!-- Quarter -->
-    <circle cx="287.5" cy="225" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
-    <circle cx="287.5" cy="575" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
-    <circle cx="112.5" cy="575" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
-    <circle cx="112.5" cy="225" r="8" stroke="black" stroke-width="3" fill="white" class="quarter major-primary-runes runes"/>
-
-  <!-- Moons -->
-    <circle cx="141.5" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="spiritual-moons moons major-primary-runes runes"/>
-    <circle cx="258.5" cy="400" r="8" stroke="black" stroke-width="3" fill="white" class="spiritual-moons moons major-primary-runes runes"/>
-
-    <circle cx="243.5" cy="312.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
-    <circle cx="243.5" cy="487.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
-    <circle cx="156.5" cy="487.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
-    <circle cx="156.5" cy="312.5" r="8" stroke="black" stroke-width="3" fill="white" class="elemental-moons moons major-primary-runes runes"/>
-
-  <!-- Domains -->
-    <circle cx="235" cy="260" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
-    <circle cx="235" cy="540" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
-    <circle cx="165" cy="540" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
-    <circle cx="165" cy="260" r="8" stroke="black" stroke-width="3" fill="white" class="external-domains domains major-primary-runes runes"/>
-
-    <circle cx="270" cy="330" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
-    <circle cx="270" cy="470" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
-    <circle cx="130" cy="470" r="8" stroke="black" stroke-width="3" fill="white" class="intermediate-domains domains major-primary-runes runes"/>
-    <circle cx="130" cy="330" r="8" stroke="black" stroke-width="3" 
-          fill="white" class="intermediate-domains domains major-primary-runes runes"/>
-
-    <circle cx="229" cy="341.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
-    <circle cx="229" cy="458.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
-    <circle cx="171" cy="458.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
-    <circle cx="171" cy="341.5" r="8" stroke="black" stroke-width="3" fill="white" class="inner-domains domains major-primary-runes runes"/>
-  </g>
-  <g id="minor-primary-runes">
-  <!-- Minor primary runes. -->
-
-  <!-- Towers -->
-    <line x1="200" y1="50" x2="287.5" y2="225" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-    <line x1="287.5" y1="225" x2="375" y2="400" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-
-    <line x1="375" y1="400" x2="287.5" y2="575" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-    <line x1="287.5" y1="575" x2="200" y2="750" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-
-    <line x1="200" y1="750" x2="112.5" y2="575" stroke-width="4" stroke="blue" class="minor-primary-runes runes"/>
-    <line x1="112.5" y1="575" x2="25" y2="400" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-
-    <line x1="25" y1="400" x2="112.5" y2="225" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-    <line x1="112.5" y1="225" x2="200" y2="50" stroke-width="4" stroke="blue" class="external-tower minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="283.5" x2="229" y2="341.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-    <line x1="229" y1="341.5" x2="258.5" y2="400" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-
-    <line x1="258.5" y1="400" x2="229" y2="458.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-    <line x1="229" y1="458.5" x2="200" y2="516.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-
-    <line x1="200" y1="516.5" x2="171" y2="458.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-    <line x1="171" y1="458.5" x2="141.5" y2="400" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-
-    <line x1="141.5" y1="400" x2="171" y2="341.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-    <line x1="171" y1="341.5" x2="200" y2="283.5" stroke-width="4" stroke="blue" class="inner-tower minor-primary-runes runes"/>
-
-  <!-- Cardinals -->
-    <line x1="200" y1="400" x2="200" y2="283.5" stroke-width="4"           stroke="green" class="cardinals minor-primary-runes runes"/>
-    <line x1="200" y1="283.5" x2="200" y2="50" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="258.5" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-    <line x1="258.5" y1="400" x2="375" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="200" y2="516.5" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-    <line x1="200" y1="516.5" x2="200" y2="750" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="141.5" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-    <line x1="141.5" y1="400" x2="25" y2="400" stroke-width="4" stroke="green" class="cardinals minor-primary-runes runes"/>
-
-
-  <!-- Ways -->
-    <line x1="200" y1="400" x2="229" y2="341.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="229" y1="341.5" x2="243.5" y2="312.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="243.5" y1="312.5" x2="287.5" y2="225" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="229" y2="458.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="229" y1="458.5" x2="243.5" y2="487.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="243.5" y1="487.5" x2="287.5" y2="575" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="171" y2="458.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="171" y1="458.5" x2="156.5" y2="487.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="156.5" y1="487.5" x2="112.5" y2="575" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="400" x2="171" y2="341.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="171" y1="341.5" x2="156.5" y2="312.5" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-    <line x1="156.5" y1="312.5" x2="112.5" y2="225" stroke-width="4"           stroke="purple" class="ways minor-primary-runes runes"/>
-
-
-  <!-- Roads -->
-    <line x1="200" y1="50" x2="235" y2="260" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="235" y1="260" x2="243.5" y2="312.5" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="243.5" y1="312.5" x2="258.5" y2="400" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="258.5" y1="400" x2="270" y2="470" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="270" y1="470" x2="287.5" y2="575" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-
-    <line x1="200" y1="50" x2="165" y2="260" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="165" y1="260" x2="156.5" y2="312.5" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="156.5" y1="312.5" x2="141.5" y2="400" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="141.5" y1="400" x2="130" y2="470" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-    <line x1="130" y1="470" x2="112.5" y2="575" stroke-width="4" stroke="red" class="top-roads roads minor-primary-runes runes"/>
-
-
-    <line x1="375" y1="400" x2="270" y2="330" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="270" y1="330" x2="243.5" y2="312.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="243.5" y1="312.5" x2="200" y2="283.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="200" y1="283.5" x2="165" y2="260" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="165" y1="260" x2="112.5" y2="225" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-
-    <line x1="375" y1="400" x2="270" y2="470" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="270" y1="470" x2="243.5" y2="487.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="243.5" y1="487.5" x2="200" y2="516.5" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="200" y1="516.5" x2="165" y2="540" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-    <line x1="165" y1="540" x2="112.5" y2="575" stroke-width="4" stroke="red" class="right-roads roads minor-primary-runes runes"/>
-
-
-    <line x1="200" y1="750" x2="235" y2="540" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="235" y1="540" x2="243.5" y2="487.5" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="243.5" y1="487.5" x2="258.5" y2="400" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="258.5" y1="400" x2="270" y2="330" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="270" y1="330" x2="287.5" y2="225" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-
-    <line x1="200" y1="750" x2="165" y2="540" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="165" y1="540" x2="156.5" y2="487.5" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="156.5" y1="487.5" x2="141.5" y2="400" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="141.5" y1="400" x2="130" y2="330" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-    <line x1="130" y1="330" x2="112.5" y2="225" stroke-width="4" stroke="red" class="bottom-roads roads minor-primary-runes runes"/>
-
-
-    <line x1="25" y1="400" x2="130" y2="470" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="130" y1="470" x2="156.5" y2="487.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="156.5" y1="487.5" x2="200" y2="516.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="200" y1="516.5" x2="235" y2="540" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="235" y1="540" x2="287.5" y2="575" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-
-    <line x1="25" y1="400" x2="130" y2="330" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="130" y1="330" x2="156.5" y2="312.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="156.5" y1="312.5" x2="200" y2="283.5" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="200" y1="283.5" x2="235" y2="260" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-    <line x1="235" y1="260" x2="287.5" y2="225" stroke-width="4" stroke="red" class="left-roads roads minor-primary-runes runes"/>
-  </g>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+      <svg name="Primary-Table" xmlns="https://www.w3.org/2000/svg" width="400" height="800" viewbox="0 0 400 800" id="primary-table">
+        <defs>
+            <!-- line-gradient : vertical line and line from bottom to top tilted to the left -->
+          <lineargradient id="l-gradient-minor-primary-runes" gradientunits="userspaceonuse" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color: black; stop-opacity: 0.9;"/>
+            <stop offset="20%" style="stop-color: indigo; stop-opacity: 0.8;"/>
+            <stop offset="40%" style="stop-color: cadetblue; stop-opacity: 0.9;"/>
+            <stop offset="50%" style="stop-color:skyblue; stop-opacity: 1;"/>
+            <stop offset="60%" style="stop-color: cadetblue; stop-opacity: 0.9;"/>
+            <stop offset="80%" style="stop-color: indigo; stop-opacity: 0.8;"/>
+            <stop offset="100%" style="stop-color: black; stop-opacity: 0.9;"/>
+          </lineargradient>
+            <!-- line-gradient : horizontal line and line from bottom to top tilted to the right -->
+          <lineargradient id="r-gradient-minor-primary-runes" gradientunits="userspaceonuse" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color: black; stop-opacity: 0.9;"/>
+            <stop offset="20%" style="stop-color: indigo; stop-opacity: 0.9;"/>
+            <stop offset="40%" style="stop-color: cadetblue; stop-opacity: 0.9;"/>
+            <stop offset="50%" style="stop-color:skyblue; stop-opacity: 1;"/>
+            <stop offset="60%" style="stop-color: cadetblue; stop-opacity: 0.9;"/>
+            <stop offset="80%" style="stop-color: indigo; stop-opacity: 0.9;"/>
+            <stop offset="100%" style="stop-color: black; stop-opacity: 0.9;"/>
+          </lineargradient>
+            <!-- circle-gradient -->
+          <radialgradient id="gradient-major-primary-runes" cx="50%" cy="50%" r="45%" fx="50%" fy="50%">
+            <stop offset="0%" style="stop-color:black;stop-opacity:0.8" />
+            <stop offset="35%" style="stop-color:indigo;stop-opacity:0.8" />
+            <stop offset="70%" style="stop-color:cadetblue;stop-opacity:0.9" />
+            <stop offset="100%" style="stop-color:skyblue;stop-opacity:0.8" />
+          </radialgradient>
+            <!-- line-effect -->
+          <filter id="shadow-minor-primary-runes" height="130%" width="130%">
+            <fegaussianblur in="sourcealpha" stddeviation="1"/>
+            <feoffset dx="0" dy="0" result="line-effect"/>
+            <femerge>
+              <femergenode/>
+              <femergenode in="sourcegraphic"/>
+            </femerge>
+          </filter>
+        </defs>
+        <g id="minor-primary-runes">
+          <g id="tower">
+            <g id="external-tower">
+              <g id="top-right-external-tower">
+                <g id="end" class="top-right-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="200" y1="50" x2="287.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="287.5" y2="225" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="287.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="fail" class="top-right-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="287.5" y1="225" x2="375" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="287.5" y1="225" x2="375" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="287.5" y1="225" x2="375" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="bottom-right-external-tower">
+                <g id="succes" class="bottom-right-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="375" y1="400" x2="287.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="287.5" y2="575" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="287.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="start" class="bottom-right-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="287.5" y1="575" x2="200" y2="750" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="287.5" y1="575" x2="200" y2="750" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="287.5" y1="575" x2="200" y2="750" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="bottom-left-external-tower">
+                <g id="decrease" class="bottom-left-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="200" y1="750" x2="112.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="112.5" y2="575" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="112.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="active" class="bottom-left-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="112.5" y1="575" x2="25" y2="400" stroke-width="7" stroke="black"  filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="112.5" y1="575" x2="25" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="112.5" y1="575" x2="25" y2="400" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="top-left-external-tower">
+                <g id="passive" class="top-left-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="25" y1="400" x2="112.5" y2="225" stroke-width="7" stroke="black"  filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="112.5" y2="225" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="112.5" y2="225" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="increase" class="top-left-external-tower external-tower tower minor-primary-runes runes">
+                  <line x1="112.5" y1="225" x2="200" y2="50" stroke-width="7" stroke="black"  filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="112.5" y1="225" x2="200" y2="50" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="112.5" y1="225" x2="200" y2="50" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+            </g>
+            <g id="inner-tower">
+              <g id="top-right-inner-tower">
+                <g id="change" class="top-right-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="200" y1="283.5" x2="229" y2="341.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="229" y2="341.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="229" y2="341.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="chaos" class="top-right-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="229" y1="341.5" x2="258.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="229" y1="341.5" x2="258.5" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="229" y1="341.5" x2="258.5" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="bottom-right-inner-tower">
+                <g id="order" class="bottom-right-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="258.5" y1="400" x2="229" y2="458.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="229" y2="458.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="229" y2="458.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="stability" class="bottom-right-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="229" y1="458.5" x2="200" y2="516.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="229" y1="458.5" x2="200" y2="516.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="229" y1="458.5" x2="200" y2="516.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="bottom-left-inner-tower">
+                <g id="loss" class="bottom-left-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="200" y1="516.5" x2="171" y2="458.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="171" y2="458.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="171" y2="458.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="evil" class="bottom-left-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="171" y1="458.5" x2="141.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="171" y1="458.5" x2="141.5" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="171" y1="458.5" x2="141.5" y2="400" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="top-left-inner-tower">
+                <g id="good" class="top-left-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="141.5" y1="400" x2="171" y2="341.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="171" y2="341.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="171" y2="341.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+                <g id="win" class="top-left-inner-tower inner-tower minor-primary-runes runes">
+                  <line x1="171" y1="341.5" x2="200" y2="283.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="171" y1="341.5" x2="200" y2="283.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="171" y1="341.5" x2="200" y2="283.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="cardinals">
+            <g id="top-cardinals">
+              <g id="spirit" class="top-cardinals cardinals minor-primary-runes runes">
+                <line x1="200" y1="400" x2="201" y2="283.5" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="400" x2="200.1" y2="283.5" stroke-width="7" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="201" y2="283.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+              <g id="body" class="top-cardinals cardinals minor-primary-runes runes">
+                <line x1="200" y1="283.5" x2="201" y2="50" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="283.5" x2="200.1" y2="50" stroke-width="7" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="283.5" x2="201" y2="50" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+            <g id="right-cardinals">
+              <g id="knowledge" class="right-cardinals cardinals minor-primary-runes runes" >
+                <line x1="200" y1="400" x2="258.5" y2="401" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="400" x2="258.5" y2="400.1" stroke-width="7" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="258.5" y2="401" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+              <g id="humility" class="right-cardinals cardinals minor-primary-runes runes">
+                <line x1="258.5" y1="400" x2="375" y2="401" stroke-width="8" stroke="black"/>
+                <line x1="258.5" y1="400" x2="375" y2="400.1" stroke-width="7" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="258.5" y1="400" x2="375" y2="401" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+            <g id="bottom-cardinals">
+              <g id="soul" class="bottom-cardinals cardinals minor-primary-runes runes">
+                <line x1="200" y1="400" x2="201" y2="516.5" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="400" x2="200.1" y2="516.5" stroke-width="7" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="201" y2="516.5" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+              <g id="flow" class="bottom-cardinals cardinals minor-primary-runes runes">
+                <line x1="200" y1="516.5" x2="201" y2="750" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="516.5" x2="200.1" y2="750" stroke-width="7" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="516.5" x2="201" y2="750" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+            <g id="left-cardinals">
+              <g id="loyalty" class="left-cardinals cardinals minor-primary-runes runes">
+                <line x1="200" y1="400" x2="141.5" y2="401" stroke-width="8" stroke="black"/>
+                <line x1="200" y1="400" x2="141.5" y2="400.1" stroke-width="7" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="141.5" y2="401" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+              <g id="cooperaion" class="left-cardinals cardinals minor-primary-runes runes">
+                <line x1="141.5" y1="400" x2="25" y2="401" stroke-width="8" stroke="black"/>
+                <line x1="141.5" y1="400" x2="25" y2="400.1" stroke-width="7" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="141.5" y1="400" x2="25" y2="401" stroke-width="1" stroke="white"  filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+          </g>
+          <g id="ways">
+            <g id="top-right-ways">
+              <g id="luck" class="top-right-ways ways minor-primary-runes runes" >
+                <line x1="200" y1="400" x2="229" y2="341.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="229" y2="341.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="229" y2="341.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+              <g id="adaptation"  class="top-right-ways ways minor-primary-runes runes">
+                <line x1="229" y1="341.5" x2="243.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="229" y1="341.5" x2="243.5" y2="312.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="229" y1="341.5" x2="243.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="exceed"  class="top-right-ways ways minor-primary-runes runes">
+                <line x1="243.5" y1="312.5" x2="287.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="243.5" y1="312.5" x2="287.5" y2="225" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="243.5" y1="312.5" x2="287.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+            <g id="bottom-right-ways">
+              <g id="individual"  class="bottom-right-ways ways minor-primary-runes runes">
+                <line x1="200" y1="400" x2="229" y2="458.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="229" y2="458.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="229" y2="458.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="creation"  class="bottom-right-ways ways minor-primary-runes runes">
+                <line x1="229" y1="458.5" x2="243.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="229" y1="458.5" x2="243.5" y2="487.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="229" y1="458.5" x2="243.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="empathy"  class="bottom-right-ways ways minor-primary-runes runes">
+                <line x1="243.5" y1="487.5" x2="287.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="243.5" y1="487.5" x2="287.5" y2="575" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="243.5" y1="487.5" x2="287.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g> 
+            </g>
+            <g id="bottom-left-ways">
+              <g id="power"  class="bottom-left-ways ways minor-primary-runes runes">
+                <line x1="200" y1="400" x2="171" y2="458.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="171" y2="458.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="171" y2="458.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="destruction"  class="bottom-left-ways ways minor-primary-runes runes">
+                <line x1="171" y1="458.5" x2="156.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="171" y1="458.5" x2="156.5" y2="487.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="171" y1="458.5" x2="156.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="control"  class="bottom-left-ways ways minor-primary-runes runes">
+                <line x1="156.5" y1="487.5" x2="112.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="156.5" y1="487.5" x2="112.5" y2="575" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                <line x1="156.5" y1="487.5" x2="112.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g> 
+            </g>
+            <g id="top-left-ways">
+              <g id="home"  class="top-left-ways ways minor-primary-runes runes">
+                <line x1="200" y1="400" x2="171" y2="341.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="171" y2="341.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="200" y1="400" x2="171" y2="341.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="resiliency"  class="top-left-ways ways minor-primary-runes runes">
+                <line x1="171" y1="341.5" x2="156.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="171" y1="341.5" x2="156.5" y2="312.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="171" y1="341.5" x2="156.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>          
+              <g id="temperance"  class="top-left-ways ways minor-primary-runes runes">
+                <line x1="156.5" y1="312.5" x2="112.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                <line x1="156.5" y1="312.5" x2="112.5" y2="225" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                <line x1="156.5" y1="312.5" x2="112.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+              </g>
+            </g>
+          </g>
+          <g id="roads">
+            <g id="top-roads">
+              <g id="top-roads-right">
+                <g id="time" class="top-roads-right top-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="50" x2="235" y2="260" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="235" y2="260" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="235" y2="260" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="link" class="top-roads-right top-roads roads minor-primary-runes runes">
+                  <line x1="235" y1="260" x2="243.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="235" y1="260" x2="243.5" y2="312.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="235" y1="260" x2="243.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="conflict" class="top-roads-right top-roads roads minor-primary-runes runes">
+                  <line x1="243.5" y1="312.5" x2="258.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="243.5" y1="312.5" x2="258.5" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="243.5" y1="312.5" x2="258.5" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="math" class="top-roads-right top-roads roads minor-primary-runes runes">
+                  <line x1="258.5" y1="400" x2="270" y2="470" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="270" y2="470" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="270" y2="470" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="smite" class="top-roads-right top-roads roads minor-primary-runes runes">
+                  <line x1="270" y1="470" x2="287.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="270" y1="470" x2="287.5" y2="575" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="270" y1="470" x2="287.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="top-roads-left">
+                <g id="plane" class="top-roads-left top-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="50" x2="165" y2="260" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="165" y2="260" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="50" x2="165" y2="260" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="strength" class="top-roads-left top-roads roads minor-primary-runes runes">
+                  <line x1="165" y1="260" x2="156.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="165" y1="260" x2="156.5" y2="312.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="165" y1="260" x2="156.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="trust" class="top-roads-left top-roads roads minor-primary-runes runes">
+                  <line x1="156.5" y1="312.5" x2="141.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="156.5" y1="312.5" x2="141.5" y2="400" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="156.5" y1="312.5" x2="141.5" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="denial" class="top-roads-left top-roads roads minor-primary-runes runes">
+                  <line x1="141.5" y1="400" x2="130" y2="470" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="130" y2="470" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="130" y2="470" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="emotion" class="top-roads-left top-roads roads minor-primary-runes runes">
+                  <line x1="130" y1="470" x2="112.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="130" y1="470" x2="112.5" y2="575" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="130" y1="470" x2="112.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g> 
+              </g>
+            </g>
+            <g id="right-roads">
+              <g id="right-roads-bottom">
+                <g id="freedom" class="right-roads-bottom right-roads roads minor-primary-runes runes">
+                  <line x1="375" y1="400" x2="270" y2="330" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="270" y2="330" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="270" y2="330" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="event" class=" right-roads-bottom right-roads roads minor-primary-runes runes">
+                  <line x1="270" y1="330" x2="243.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="270" y1="330" x2="243.5" y2="312.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="270" y1="330" x2="243.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="difference" class=" right-roads-bottom right-roads roads minor-primary-runes runes">
+                  <line x1="243.5" y1="312.5" x2="200" y2="283.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="243.5" y1="312.5" x2="200" y2="283.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="243.5" y1="312.5" x2="200" y2="283.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="size" class=" right-roads-bottom right-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="283.5" x2="165" y2="260" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="165" y2="260" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="165" y2="260" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="environment" class="right-roads-bottom right-roads roads minor-primary-runes runes">
+                  <line x1="165" y1="260" x2="112.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="165" y1="260" x2="112.5" y2="225" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="165" y1="260" x2="112.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+              <g id="right-roads-top">
+                <g id="devotion" class="right-roads-top right-roads roads minor-primary-runes runes">
+                  <line x1="375" y1="400" x2="270" y2="470" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="270" y2="470" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="375" y1="400" x2="270" y2="470" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="univer" class="right-roads-top right-roads roads minor-primary-runes runes">
+                  <line x1="270" y1="470" x2="243.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="270" y1="470" x2="243.5" y2="487.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="270" y1="470" x2="243.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>            
+                </g>          
+                <g id="transport" class="right-roads-top right-roads roads minor-primary-runes runes">
+                  <line x1="243.5" y1="487.5" x2="200" y2="516.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="243.5" y1="487.5" x2="200" y2="516.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="243.5" y1="487.5" x2="200" y2="516.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="absent" class="right-roads-top right-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="516.5" x2="165" y2="540" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="165" y2="540" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="165" y2="540" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="sense" class="right-roads-top right-roads roads minor-primary-runes runes">
+                  <line x1="165" y1="540" x2="112.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="165" y1="540" x2="112.5" y2="575" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="165" y1="540" x2="112.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+            </g>
+            <g id="bottom-roads">
+              <g id="bottom-roads-left">
+                <g id="dimension" class="bottom-roads-left bottom-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="750" x2="235" y2="540" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="235" y2="540" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="235" y2="540" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="memory" class="bottom-roads-left bottom-roads roads minor-primary-runes runes">
+                  <line x1="235" y1="540" x2="243.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="235" y1="540" x2="243.5" y2="487.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="235" y1="540" x2="243.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="peace" class="bottom-roads-left bottom-roads roads minor-primary-runes runes">
+                  <line x1="243.5" y1="487.5" x2="258.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="243.5" y1="487.5" x2="258.5" y2="400" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="243.5" y1="487.5" x2="258.5" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="language" class="bottom-roads-left bottom-roads roads minor-primary-runes runes">
+                  <line x1="258.5" y1="400" x2="270" y2="330" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="270" y2="330" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="258.5" y1="400" x2="270" y2="330" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="reality" class="bottom-roads-left bottom-roads roads minor-primary-runes runes">
+                  <line x1="270" y1="330" x2="287.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="270" y1="330" x2="287.5" y2="225" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="270" y1="330" x2="287.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>          
+              <g id="bottom-roads-right">
+                <g id="magic" class="bottom-roads-right bottom-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="750" x2="165" y2="540" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="165" y2="540" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="750" x2="165" y2="540" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="sleep" class="bottom-roads-right bottom-roads roads minor-primary-runes runes">
+                  <line x1="165" y1="540" x2="156.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="165" y1="540" x2="156.5" y2="487.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="165" y1="540" x2="156.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="treason" class="bottom-roads-right bottom-roads roads minor-primary-runes runes">
+                  <line x1="156.5" y1="487.5" x2="141.5" y2="400" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="156.5" y1="487.5" x2="141.5" y2="400" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="156.5" y1="487.5" x2="141.5" y2="400" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="accept" class="bottom-roads-right bottom-roads roads minor-primary-runes runes">
+                  <line x1="141.5" y1="400" x2="130" y2="330" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="130" y2="330" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="141.5" y1="400" x2="130" y2="330" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="life" class="bottom-roads-right bottom-roads roads minor-primary-runes runes">
+                  <line x1="130" y1="330" x2="112.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="130" y1="330" x2="112.5" y2="225" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="130" y1="330" x2="112.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+            </g>
+            <g id="left-roads">
+              <g id="left-roads-bottom">
+                <g id="danger" class="left-roads-bottom left-roads roads minor-primary-runes runes">
+                  <line x1="25" y1="400" x2="130" y2="470" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="130" y2="470" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="130" y2="470" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="possession" class="left-roads-bottom left-roads roads minor-primary-runes runes">
+                  <line x1="130" y1="470" x2="156.5" y2="487.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="130" y1="470" x2="156.5" y2="487.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="130" y1="470" x2="156.5" y2="487.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="disaster" class="left-roads-bottom left-roads roads minor-primary-runes runes">
+                  <line x1="156.5" y1="487.5" x2="200" y2="516.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="156.5" y1="487.5" x2="200" y2="516.5" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="156.5" y1="487.5" x2="200" y2="516.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="presence" class="left-roads-bottom left-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="516.5" x2="235" y2="540" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="235" y2="540" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="516.5" x2="235" y2="540" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="important" class="left-roads-bottom left-roads roads minor-primary-runes runes">
+                  <line x1="235" y1="540" x2="287.5" y2="575" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="235" y1="540" x2="287.5" y2="575" stroke-width="6" stroke="url(#l-gradient-minor-primary-runes)"/>
+                  <line x1="235" y1="540" x2="287.5" y2="575" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>  
+              <g id="left-roads-top">
+                <g id="security" class="left-roads-top left-roads roads minor-primary-runes runes">
+                  <line x1="25" y1="400" x2="130" y2="330" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="130" y2="330" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="25" y1="400" x2="130" y2="330" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="consequence" class="left-roads-top left-roads roads minor-primary-runes runes">
+                  <line x1="130" y1="330" x2="156.5" y2="312.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="130" y1="330" x2="156.5" y2="312.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="130" y1="330" x2="156.5" y2="312.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="similar" class="left-roads-top left-roads roads minor-primary-runes runes">
+                  <line x1="156.5" y1="312.5" x2="200" y2="283.5" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="156.5" y1="312.5" x2="200" y2="283.5" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="156.5" y1="312.5" x2="200" y2="283.5" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="take" class="left-roads-top left-roads roads minor-primary-runes runes">
+                  <line x1="200" y1="283.5" x2="235" y2="260" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="235" y2="260" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="200" y1="283.5" x2="235" y2="260" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>          
+                <g id="phenomenon" class="left-roads-top left-roads roads minor-primary-runes runes">
+                  <line x1="235" y1="260" x2="287.5" y2="225" stroke-width="7" stroke="black" filter="url(#shadow-minor-primary-runes)"/>
+                  <line x1="235" y1="260" x2="287.5" y2="225" stroke-width="6" stroke="url(#r-gradient-minor-primary-runes)"/>
+                  <line x1="235" y1="260" x2="287.5" y2="225" stroke-width="1" stroke="white" filter="url(#shadow-minor-primary-runes)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="major-primary-runes">
+          <g id="column">
+            <g id="future" class="column major-primary-runes runes">
+              <circle cx="200" cy="283.5" r="10" stroke="black" />
+              <circle cx="200" cy="283.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)" />
+            </g>          
+            <g id="here" class="column major-primary-runes runes">
+              <circle cx="200" cy="400" r="10" stroke="black"/>
+              <circle cx="200" cy="400" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>        
+            <g id="past" class="column major-primary-runes runes">
+              <circle cx="200" cy="516.5" r="10" stroke="black"/>
+              <circle cx="200" cy="516.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>
+          </g>
+          <g id="directions">
+            <g id="top" class="directions major-primary-runes runes">
+              <circle cx="200" cy="50" r="9" stroke="black"/>
+              <circle cx="200" cy="50" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)" />
+            </g>          
+            <g id="right" class="directions major-primary-runes runes">
+              <circle cx="375" cy="400" r="9" stroke="black"/>
+              <circle cx="375" cy="400" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>          
+            <g id="bottom" class="directions major-primary-runes runes">
+              <circle cx="200" cy="750" r="9" stroke="black"/>
+              <circle cx="200" cy="750" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>          
+            <g id="left" class="directions major-primary-runes runes">
+              <circle cx="25" cy="400" r="9" stroke="black"/>
+              <circle cx="25" cy="400" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>
+          </g>
+          <g id="quarters">
+            <g id="void" class="quarters major-primary-runes runes">
+              <circle cx="287.5" cy="225" r="9" stroke="black"/>
+              <circle cx="287.5" cy="225" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>          
+            <g id="absolut" class="quarters major-primary-runes runes">
+              <circle cx="287.5" cy="575" r="9" stroke="black"/>
+              <circle cx="287.5" cy="575" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>          
+            <g id="energy" class="quarters major-primary-runes runes">
+              <circle cx="112.5" cy="575" r="9" stroke="black"/>
+              <circle cx="112.5" cy="575" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>          
+            <g id="matter" class="quarters major-primary-runes runes">
+              <circle cx="112.5" cy="225" r="9" stroke="black"/>
+              <circle cx="112.5" cy="225" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+            </g>
+          </g>
+          <g id="moons">
+            <g id="spiritual-moons">
+              <g id="balance" class="spiritual-moons major-primary-runes runes">
+                <circle cx="258.5" cy="400" r="10" stroke="black"/>
+                <circle cx="258.5" cy="400" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            </g>
+              <g id="morality" class="spiritual-moons major-primary-runes runes">
+                <circle cx="141.5" cy="400" r="10" stroke="black"/>
+                <circle cx="141.5" cy="400" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            <g id="elemental-moons">
+              <g id="water" class="elemental-moons major-primary-runes runes">
+                <circle cx="243.5" cy="312.5" r="10" stroke="black"/>
+                <circle cx="243.5" cy="312.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="air" class="elemental-moons major-primary-runes runes">
+                <circle cx="243.5" cy="487.5" r="10" stroke="black"/>
+                <circle cx="243.5" cy="487.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="fire" class="elemental-moons major-primary-runes runes">
+                <circle cx="156.5" cy="487.5" r="10" stroke="black"/>
+                <circle cx="156.5" cy="487.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="earth" class="elemental-moons major-primary-runes runes">
+                <circle cx="156.5" cy="312.5" r="10" stroke="black"/>
+                <circle cx="156.5" cy="312.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            </g>
+          </g>
+          <g id="domains">
+            <g id="external-domains">
+              <g id="assimilation" class="external-domains major-primary-runes runes">
+                <circle cx="235" cy="260" r="10" stroke="black"/>
+                <circle cx="235" cy="260" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="divination" class="external-domains major-primary-runes runes">
+                <circle cx="235" cy="540" r="10" stroke="black"/>
+                <circle cx="235" cy="540" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="illusion" class="external-domains major-primary-runes runes">
+                <circle cx="165" cy="540" r="10" stroke="black"/>
+                <circle cx="165" cy="540" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="enchantment" class="external-domains major-primary-runes runes">
+                <circle cx="165" cy="260" r="10" stroke="black"/>
+                <circle cx="165" cy="260" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            </g>
+            <g id="intermediate-domains">
+              <g id="animation" class="intermediate-domains major-primary-runes runes">
+                <circle cx="270" cy="330" r="10" stroke="black"/>
+                <circle cx="270" cy="330" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="teleportation" class="intermediate-domains major-primary-runes runes">
+                <circle cx="270" cy="470" r="10" stroke="black"/>
+                <circle cx="270" cy="470" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="coercion" class="intermediate-domains major-primary-runes runes">
+                <circle cx="130" cy="470" r="10" stroke="black"/>
+                <circle cx="130" cy="470" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="cure" class="intermediate-domains major-primary-runes runes">
+                <circle cx="130" cy="330" r="10" stroke="black"/>
+                <circle cx="130" cy="330" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            </g>
+            <g id="inner-domains">
+              <g id="metamorphosis" class="inner-domains domains major-primary-runes runes">
+                <circle cx="229" cy="341.5" r="10" stroke="black"/>
+                <circle cx="229" cy="341.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="invocation" class="inner-domains domains major-primary-runes runes">
+                <circle cx="229" cy="458.5" r="10" stroke="black"/>
+                <circle cx="229" cy="458.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="alteration" class="inner-domains domains major-primary-runes runes">
+                <circle cx="171" cy="458.5" r="10" stroke="black"/>
+                <circle cx="171" cy="458.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>          
+              <g id="protection" class="inner-domains domains major-primary-runes runes">
+                <circle cx="171" cy="341.5" r="10" stroke="black"/>
+                <circle cx="171" cy="341.5" r="8" stroke="url(#l-gradient-minor-primary-runes)" stroke-width="3" fill="url(#gradient-major-primary-runes)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
